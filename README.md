@@ -1,11 +1,4 @@
-<img width="1458" height="2533" alt="image" src="https://github.com/user-attachments/assets/e752c249-f31e-45aa-98cf-224efd2cce5f" />
 
-
-
-
-
-<img width="1956" height="1956" alt="image" src="https://github.com/user-attachments/assets/1bbd1b33-bd67-46ef-b65b-63f17aa72298" />
-BYEBYE!!!!!
 <!--
 **gaiasiajennyae-dotcom/gaiasiajennyae-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
