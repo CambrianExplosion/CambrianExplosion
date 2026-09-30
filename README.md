@@ -1,4 +1,4 @@
-
+wip bc im to lazy rn lol
 <!--
 **gaiasiajennyae-dotcom/gaiasiajennyae-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
