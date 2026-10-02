@@ -27,7 +27,7 @@ _ _ _
 <br>
 
 &nbsp; $\color{#56A399}{\text{Always looking for more friends}}$ <Br>
-&nbsp; $\color{#56A399}{\text{likes: Unstable, Eddsworld,args}}$
+&nbsp; $\color{#56A399}{\text{I like Unstable, Eddsworld, & args}}$
 
 <img width="197" height="79" alt="image" src="https://github.com/user-attachments/assets/a4f13f94-48af-4f0e-8314-cd4568b58fca" />
 <br>
