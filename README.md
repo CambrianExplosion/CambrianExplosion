@@ -33,5 +33,4 @@ _ _ _
 <br>
 
 _ _ _
-
 $\color{#56A399}{\text{Dni if you're racist, sexist, homohpobic, a BB or BW and any other type of problematic.}}$ 
