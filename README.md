@@ -20,16 +20,16 @@ _ _ _
 
 <br>
 
-&emsp;&emsp; $\color{#56A399}{\text{ Hello!, feel free to int!!!}}$ <br>
-&emsp;&emsp; $\color{#56A399}{\text{17 : Intp : Artist / writer }}$ <br>
+&emsp; $\color{#56A399}{\text{ Hello!, feel free to int!!!}}$ <br>
+&emsp; $\color{#56A399}{\text{17 : Intp : Artist / writer }}$ <br>
 
 
 <br>
 
 $\color{#56A399}{\text{Always looking for more friends}}$ <Br>
-$\color{#56A399}{\text{likes: Unstable, Eddsworld, Mc args, ++}}$
+$\color{#56A399}{\text{likes: Unstable, Eddsworld,args}}$
 
-<img width="200" height="79" alt="image" src="https://github.com/user-attachments/assets/a4f13f94-48af-4f0e-8314-cd4568b58fca" />
+<img width="190" height="79" alt="image" src="https://github.com/user-attachments/assets/a4f13f94-48af-4f0e-8314-cd4568b58fca" />
 <br>
 
 _ _ _
