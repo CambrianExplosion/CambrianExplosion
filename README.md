@@ -20,14 +20,14 @@ _ _ _
 
 <br>
 
-&emsp;&emsp;&emsp; $\color{#56A399}{\text{ Hello!, feel free to int!!!}}$ <br>
-&emsp;&emsp;&emsp; $\color{#56A399}{\text{17 : Intp : Artist / writer }}$ <br>
+&emsp;&emsp; $\color{#56A399}{\text{ Hello!, feel free to int!!!}}$ <br>
+&emsp;&emsp; $\color{#56A399}{\text{17 : Intp : Artist / writer }}$ <br>
 
 
 <br>
 
-&emsp;&emsp;&emsp; $\color{#56A399}{\text{Always looking for more friends}}$ <Br>
-&emsp; $\color{#56A399}{\text{Interests: Unstable, Eddsworld, Mc args, etc...}}$
+&emsp;&emsp; $\color{#56A399}{\text{Always looking for more friends}}$ <Br>
+$\color{#56A399}{\text{Interests: Unstable, Eddsworld, Mc args, etc...}}$
 
 
 <br>
